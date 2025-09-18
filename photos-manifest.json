@@ -1,0 +1,253 @@
+{
+  "version": "v6",
+  "data": [
+    {
+      "id": "DSC_1527_0272d1a1",
+      "title": "DSC 1527",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:02.021Z",
+      "tags": [],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/DSC_1527.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1527_0272d1a1.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "DSC_1527.jpg",
+      "lastModified": "2025-09-18T05:01:34.526Z",
+      "size": 10486080,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1528_846ed276",
+      "title": "DSC 1528",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:02.013Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1528.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1528_846ed276.webp",
+      "thumbHash": "9a480a0d820959898777777386797786958f7acefb",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1528.jpg",
+      "lastModified": "2025-09-18T05:01:34.526Z",
+      "size": 10856842,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1529_99d53ea2",
+      "title": "DSC 1529",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.975Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1529.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1529_99d53ea2.webp",
+      "thumbHash": "18290a0d820766c898878784978a77856c8ff7cbeb",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1529.jpg",
+      "lastModified": "2025-09-18T05:01:34.526Z",
+      "size": 10695782,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 39,
+        "contrast": 39,
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1527_68b63146",
+      "title": "DSC 1527",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.936Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1527.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1527_68b63146.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1527.jpg",
+      "lastModified": "2025-09-18T05:01:34.526Z",
+      "size": 10486080,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1528_846ed276_9026aba0",
+      "title": "DSC 1528 846ed276",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.377Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/thumbnails/DSC_1528_846ed276.webp",
+      "thumbnailUrl": "/thumbnails/DSC_1528_846ed276_9026aba0.webp",
+      "thumbHash": "9a480a0d820959898777777386797786948f79cefb",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC_1528_846ed276.webp",
+      "lastModified": "2025-09-18T05:01:34.696Z",
+      "size": 171024,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 42,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1527_0272d1a1_d6c54ef2",
+      "title": "DSC 1527 0272d1a1",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.346Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/thumbnails/DSC_1527_0272d1a1.webp",
+      "thumbnailUrl": "/thumbnails/DSC_1527_0272d1a1_d6c54ef2.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC_1527_0272d1a1.webp",
+      "lastModified": "2025-09-18T05:01:34.696Z",
+      "size": 173566,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 42,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1529_99d53ea2_c6eb2349",
+      "title": "DSC 1529 99d53ea2",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.238Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/thumbnails/DSC_1529_99d53ea2.webp",
+      "thumbnailUrl": "/thumbnails/DSC_1529_99d53ea2_c6eb2349.webp",
+      "thumbHash": "18290a0d820766c898878784978a77856c8ff7cbeb",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC_1529_99d53ea2.webp",
+      "lastModified": "2025-09-18T05:01:34.696Z",
+      "size": 157606,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 40,
+        "contrast": 39,
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1527_68b63146_012a13f2",
+      "title": "DSC 1527 68b63146",
+      "description": "",
+      "dateTaken": "2025-09-18T05:02:01.207Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/thumbnails/DSC_1527_68b63146.webp",
+      "thumbnailUrl": "/thumbnails/DSC_1527_68b63146_012a13f2.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC_1527_68b63146.webp",
+      "lastModified": "2025-09-18T05:01:34.696Z",
+      "size": 173566,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 42,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [],
+  "lenses": []
+}
