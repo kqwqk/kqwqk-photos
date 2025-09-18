@@ -1,0 +1,41 @@
+{
+  "version": "v6",
+  "data": [
+    {
+      "id": "DSC_1527_68b63146",
+      "title": "DSC 1527",
+      "description": "",
+      "dateTaken": "2025-09-18T06:40:48.930Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1527.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1527_68b63146.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1527.jpg",
+      "lastModified": "2025-09-18T06:40:23.730Z",
+      "size": 10486080,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "SceneCaptureType": "Standard"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [],
+  "lenses": []
+}
