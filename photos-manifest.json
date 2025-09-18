@@ -5,7 +5,7 @@
       "id": "DSC_1527_68b63146",
       "title": "DSC 1527",
       "description": "",
-      "dateTaken": "2025-09-18T06:40:48.930Z",
+      "dateTaken": "2025-09-18T09:08:30.787Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -16,7 +16,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250502景德镇/DSC_1527.jpg",
-      "lastModified": "2025-09-18T06:40:23.730Z",
+      "lastModified": "2025-09-18T09:08:24.293Z",
       "size": 10486080,
       "exif": {
         "ImageWidth": 5568,
@@ -29,6 +29,34 @@
         "toneType": "normal",
         "brightness": 41,
         "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1527_68b63146_012a13f2",
+      "title": "DSC 1527 68b63146",
+      "description": "",
+      "dateTaken": "2025-09-18T09:08:26.557Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/thumbnails/DSC_1527_68b63146.webp",
+      "thumbnailUrl": "/thumbnails/DSC_1527_68b63146_012a13f2.webp",
+      "thumbHash": "5a380a15860a47a776686864777a8775c06f6ecdf7",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC_1527_68b63146.webp",
+      "lastModified": "2025-09-18T09:08:24.739Z",
+      "size": 173566,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 42,
         "shadowRatio": 0.45,
         "highlightRatio": 0.17
       },
