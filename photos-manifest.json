@@ -5,18 +5,18 @@
       "id": "DSC_1964_c5cdd93b",
       "title": "DSC 1964",
       "description": "",
-      "dateTaken": "2025-09-19T06:29:21.634Z",
+      "dateTaken": "2025-09-23T09:37:00.414Z",
       "tags": [
         "20250601广州"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250601广州/DSC_1964.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250601广州/DSC_1964.jpg",
       "thumbnailUrl": "/thumbnails/DSC_1964_c5cdd93b.webp",
       "thumbHash": "871706150409c7628977889878758968f68c8a02e6",
       "width": 3712,
       "height": 5568,
       "aspectRatio": 0.6666666666666666,
       "s3Key": "20250601广州/DSC_1964.jpg",
-      "lastModified": "2025-09-19T06:28:12.193Z",
+      "lastModified": "2025-09-23T09:35:39.494Z",
       "size": 19452082,
       "exif": {
         "ImageWidth": 3712,
@@ -38,18 +38,18 @@
       "id": "DSC_0134_Original_9f7e81ec",
       "title": "DSC 0134 Original",
       "description": "",
-      "dateTaken": "2025-09-19T06:29:09.027Z",
+      "dateTaken": "2025-09-23T09:36:41.135Z",
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/DSC_0134_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/DSC_0134_Original.jpg",
       "thumbnailUrl": "/thumbnails/DSC_0134_Original_9f7e81ec.webp",
       "thumbHash": "90380a140c454d6908ab5a69a797859032094a",
       "width": 2343,
       "height": 3706,
       "aspectRatio": 0.6322180248246088,
       "s3Key": "朝花夕拾/DSC_0134_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 542600,
       "exif": {
         "ImageWidth": 2343,
@@ -67,21 +67,259 @@
       "isHDR": false
     },
     {
-      "id": "DSC_1529_99d53ea2",
-      "title": "DSC 1529",
+      "id": "DSC_1703_5aa62521",
+      "title": "DSC 1703",
       "description": "",
-      "dateTaken": "2025-09-19T06:28:46.538Z",
+      "dateTaken": "2025-09-23T09:36:19.344Z",
       "tags": [
         "20250502景德镇"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1529.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1703.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1703_5aa62521.webp",
+      "thumbHash": "d3180a1d042a7960776898a8777729980984a54059",
+      "width": 3476,
+      "height": 5113,
+      "aspectRatio": 0.679835712888715,
+      "s3Key": "20250502景德镇/DSC_1703.jpg",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 4334761,
+      "exif": {
+        "ImageWidth": 3476,
+        "ImageHeight": 5113,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 32,
+        "contrast": 46,
+        "shadowRatio": 0.59,
+        "highlightRatio": 0.11
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1707_93ccf4f9",
+      "title": "DSC 1707",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:15.320Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1707.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1707_93ccf4f9.webp",
+      "thumbHash": "18f80d0c0269078778a788a55777458f7eefd7",
+      "width": 2917,
+      "height": 4824,
+      "aspectRatio": 0.6046849087893864,
+      "s3Key": "20250502景德镇/DSC_1707.jpg",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 2986013,
+      "exif": {
+        "ImageWidth": 2917,
+        "ImageHeight": 4824,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 35,
+        "shadowRatio": 0.57,
+        "highlightRatio": 0.11
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1701_9aeaa710",
+      "title": "DSC 1701",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:08.837Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1701.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1701_9aeaa710.webp",
+      "thumbHash": "cb280a1d040768877719a787877b56780889838038",
+      "width": 3324,
+      "height": 4303,
+      "aspectRatio": 0.7724843132698117,
+      "s3Key": "20250502景德镇/DSC_1701.jpg",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 3370800,
+      "exif": {
+        "ImageWidth": 3324,
+        "ImageHeight": 4303,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 18,
+        "contrast": 46,
+        "shadowRatio": 0.81,
+        "highlightRatio": 0.08
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1528_846ed276",
+      "title": "DSC 1528",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:07.471Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1528.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1528_846ed276.webp",
+      "thumbHash": "9a480a0d820959898777777386797786958f7acefb",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1528.jpg",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 8575447,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.296531,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.207092,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 43,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1737_5ab94aef",
+      "title": "DSC 1737",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:07.229Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1737.JPG",
+      "thumbnailUrl": "/thumbnails/DSC_1737_5ab94aef.webp",
+      "thumbHash": "d1e7090d84099687738577718c788887e7787f8ef7",
+      "width": 4498,
+      "height": 3324,
+      "aspectRatio": 1.3531889290012034,
+      "s3Key": "20250502景德镇/DSC_1737.JPG",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 3261814,
+      "exif": {
+        "ImageWidth": 4498,
+        "ImageHeight": 3324,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 27,
+        "contrast": 39,
+        "shadowRatio": 0.68,
+        "highlightRatio": 0.05
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1199_Original_5eab69f0",
+      "title": "DSC 1199 Original",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:05.611Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1199_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1199_Original_5eab69f0.webp",
+      "thumbHash": "cfd80515844f677786796756796888636f64069979",
+      "width": 4898,
+      "height": 3265,
+      "aspectRatio": 1.5001531393568146,
+      "s3Key": "20250405天台山/DSC_1199_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 6915545,
+      "exif": {
+        "ImageWidth": 4898,
+        "ImageHeight": 3265,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Software": "Picasa",
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 28,
+        "contrast": 31,
+        "shadowRatio": 0.63,
+        "highlightRatio": 0
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1529_99d53ea2",
+      "title": "DSC 1529",
+      "description": "",
+      "dateTaken": "2025-09-23T09:36:05.188Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1529.jpg",
       "thumbnailUrl": "/thumbnails/DSC_1529_99d53ea2.webp",
       "thumbHash": "18290a0d820766c898878784978a77856c8ff7cbeb",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250502景德镇/DSC_1529.jpg",
-      "lastModified": "2025-09-19T06:28:11.784Z",
+      "lastModified": "2025-09-23T09:35:38.648Z",
       "size": 8414405,
       "exif": {
         "ImageWidth": 5568,
@@ -102,6 +340,164 @@
         "contrast": 39,
         "shadowRatio": 0.47,
         "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1675_df163282",
+      "title": "DSC 1675",
+      "description": "",
+      "dateTaken": "2025-09-23T09:35:54.049Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1675.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1675_df163282.webp",
+      "thumbHash": "19f8111c02570767a8a884879778587fc686f6",
+      "width": 2622,
+      "height": 4886,
+      "aspectRatio": 0.5366352844862874,
+      "s3Key": "20250502景德镇/DSC_1675.jpg",
+      "lastModified": "2025-09-23T09:35:38.648Z",
+      "size": 3058637,
+      "exif": {
+        "ImageWidth": 2622,
+        "ImageHeight": 4886,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 40,
+        "contrast": 56,
+        "shadowRatio": 0.53,
+        "highlightRatio": 0.24
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_0844_Original_e41471fc",
+      "title": "DSC 0844 Original",
+      "description": "",
+      "dateTaken": "2025-09-23T09:35:50.309Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_0844_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_0844_Original_e41471fc.webp",
+      "thumbHash": "1af809158208bc86669658aa77777687fac98a0c5a",
+      "width": 4192,
+      "height": 2795,
+      "aspectRatio": 1.4998211091234348,
+      "s3Key": "20250405天台山/DSC_0844_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 4728759,
+      "exif": {
+        "ImageWidth": 4192,
+        "ImageHeight": 2795,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Software": "Picasa",
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 50,
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.19
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_1218_Original_a085f947",
+      "title": "DSC 1218 Original",
+      "description": "",
+      "dateTaken": "2025-09-23T09:35:49.845Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1218_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1218_Original_a085f947.webp",
+      "thumbHash": "cee8051d02a43c8f6b15b774568d87a6967c7016f8",
+      "width": 2795,
+      "height": 4192,
+      "aspectRatio": 0.6667461832061069,
+      "s3Key": "20250405天台山/DSC_1218_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 4698255,
+      "exif": {
+        "ImageWidth": 2795,
+        "ImageHeight": 4192,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Software": "Picasa",
+        "ColorSpace": "sRGB",
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 25,
+        "contrast": 36,
+        "shadowRatio": 0.72,
+        "highlightRatio": 0.02
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_0740_Original_6255c615",
+      "title": "DSC 0740 Original",
+      "description": "",
+      "dateTaken": "2025-09-23T09:35:45.615Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_0740_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_0740_Original_6255c615.webp",
+      "thumbHash": "84180613048b9807965967978a98a08709",
+      "width": 1823,
+      "height": 3712,
+      "aspectRatio": 0.4911099137931034,
+      "s3Key": "20250405天台山/DSC_0740_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 639620,
+      "exif": {
+        "ImageWidth": 1823,
+        "ImageHeight": 3712,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Software": "Picasa",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.142486,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.031092,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 8,
+        "contrast": 26,
+        "shadowRatio": 0.94,
+        "highlightRatio": 0.02
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -141,243 +537,6 @@
       "isHDR": false
     },
     {
-      "id": "DSC_1528_846ed276",
-      "title": "DSC 1528",
-      "description": "",
-      "dateTaken": "2025-09-19T06:28:39.389Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1528.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1528_846ed276.webp",
-      "thumbHash": "9a480a0d820959898777777386797786958f7acefb",
-      "width": 5568,
-      "height": 3712,
-      "aspectRatio": 1.5,
-      "s3Key": "20250502景德镇/DSC_1528.jpg",
-      "lastModified": "2025-09-19T06:28:11.784Z",
-      "size": 8575447,
-      "exif": {
-        "ImageWidth": 5568,
-        "ImageHeight": 3712,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "Uncalibrated",
-        "SceneCaptureType": "Standard",
-        "GPSLatitude": 29.296531,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.207092,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 41,
-        "contrast": 43,
-        "shadowRatio": 0.45,
-        "highlightRatio": 0.16
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1675_df163282",
-      "title": "DSC 1675",
-      "description": "",
-      "dateTaken": "2025-09-19T06:28:36.398Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1675.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1675_df163282.webp",
-      "thumbHash": "19f8111c02570767a8a884879778587fc686f6",
-      "width": 2622,
-      "height": 4886,
-      "aspectRatio": 0.5366352844862874,
-      "s3Key": "20250502景德镇/DSC_1675.jpg",
-      "lastModified": "2025-09-19T06:28:11.784Z",
-      "size": 3058637,
-      "exif": {
-        "ImageWidth": 2622,
-        "ImageHeight": 4886,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 29.293239,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 40,
-        "contrast": 56,
-        "shadowRatio": 0.53,
-        "highlightRatio": 0.24
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1737_5ab94aef",
-      "title": "DSC 1737",
-      "description": "",
-      "dateTaken": "2025-09-19T06:27:23.096Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1737.JPG",
-      "thumbnailUrl": "/thumbnails/DSC_1737_5ab94aef.webp",
-      "thumbHash": "d1e7090d84099687738577718c788887e7787f8ef7",
-      "width": 4498,
-      "height": 3324,
-      "aspectRatio": 1.3531889290012034,
-      "s3Key": "20250502景德镇/DSC_1737.JPG",
-      "lastModified": "2025-09-19T06:26:36.900Z",
-      "size": 3261814,
-      "exif": {
-        "ImageWidth": 4498,
-        "ImageHeight": 3324,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "Uncalibrated",
-        "SceneCaptureType": "Standard",
-        "GPSLatitude": 29.293239,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "low-key",
-        "brightness": 27,
-        "contrast": 39,
-        "shadowRatio": 0.68,
-        "highlightRatio": 0.05
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1701_9aeaa710",
-      "title": "DSC 1701",
-      "description": "",
-      "dateTaken": "2025-09-19T06:27:17.333Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1701.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1701_9aeaa710.webp",
-      "thumbHash": "cb280a1d040768877719a787877b56780889838038",
-      "width": 3324,
-      "height": 4303,
-      "aspectRatio": 0.7724843132698117,
-      "s3Key": "20250502景德镇/DSC_1701.jpg",
-      "lastModified": "2025-09-19T06:26:36.900Z",
-      "size": 3370800,
-      "exif": {
-        "ImageWidth": 3324,
-        "ImageHeight": 4303,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 29.293239,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "low-key",
-        "brightness": 18,
-        "contrast": 46,
-        "shadowRatio": 0.81,
-        "highlightRatio": 0.08
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1707_93ccf4f9",
-      "title": "DSC 1707",
-      "description": "",
-      "dateTaken": "2025-09-19T06:27:16.222Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1707.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1707_93ccf4f9.webp",
-      "thumbHash": "18f80d0c0269078778a788a55777458f7eefd7",
-      "width": 2917,
-      "height": 4824,
-      "aspectRatio": 0.6046849087893864,
-      "s3Key": "20250502景德镇/DSC_1707.jpg",
-      "lastModified": "2025-09-19T06:26:36.900Z",
-      "size": 2986013,
-      "exif": {
-        "ImageWidth": 2917,
-        "ImageHeight": 4824,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "Uncalibrated",
-        "SceneCaptureType": "Standard",
-        "GPSLatitude": 29.293239,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 38,
-        "contrast": 35,
-        "shadowRatio": 0.57,
-        "highlightRatio": 0.11
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1703_5aa62521",
-      "title": "DSC 1703",
-      "description": "",
-      "dateTaken": "2025-09-19T06:27:11.629Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1703.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1703_5aa62521.webp",
-      "thumbHash": "d3180a1d042a7960776898a8777729980984a54059",
-      "width": 3476,
-      "height": 5113,
-      "aspectRatio": 0.679835712888715,
-      "s3Key": "20250502景德镇/DSC_1703.jpg",
-      "lastModified": "2025-09-19T06:26:36.900Z",
-      "size": 4334761,
-      "exif": {
-        "ImageWidth": 3476,
-        "ImageHeight": 5113,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 29.293239,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 32,
-        "contrast": 46,
-        "shadowRatio": 0.59,
-        "highlightRatio": 0.11
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
       "id": "IMG_2586_bbc68a37",
       "title": "IMG 2586",
       "description": "",
@@ -385,14 +544,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2586.HEIC",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2586.HEIC",
       "thumbnailUrl": "/thumbnails/IMG_2586_bbc68a37.webp",
       "thumbHash": "c9f7051582667777608788778968989830c80aa4aa",
       "width": 5712,
       "height": 4284,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "朝花夕拾/IMG_2586.HEIC",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 3012605,
       "exif": {
         "DateTimeOriginal": "2025-09-08T20:01:41+08:00",
@@ -454,14 +613,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2520.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2520.JPG",
       "thumbnailUrl": "/thumbnails/DSC_2520_f6d27a9a.webp",
       "thumbHash": "d4280a0d80776788708777a67697868479b46f19fd",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2520.JPG",
-      "lastModified": "2025-09-19T06:28:12.947Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 6970722,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:29:08+08:00",
@@ -521,14 +680,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2519.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2519.JPG",
       "thumbnailUrl": "/thumbnails/DSC_2519_3b7b541d.webp",
       "thumbHash": "1b081615846978789f878779778786677670500608",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2519.JPG",
-      "lastModified": "2025-09-19T06:28:12.947Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 3332744,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:24:24+08:00",
@@ -588,14 +747,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2510.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2510.JPG",
       "thumbnailUrl": "/thumbnails/DSC_2510_eb2bf553.webp",
       "thumbHash": "61f81125827377775f8787ae76887a857880686906",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2510.JPG",
-      "lastModified": "2025-09-19T06:28:12.947Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 4278241,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:19:58+08:00",
@@ -655,14 +814,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2506.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2506.JPG",
       "thumbnailUrl": "/thumbnails/DSC_2506_d23e2523.webp",
       "thumbHash": "8718020d824384b0183e79096bdb8a750a70a00349",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2506.JPG",
-      "lastModified": "2025-09-19T06:25:14.167Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 3446730,
       "exif": {
         "DateTimeOriginal": "2025-08-17T12:45:24+08:00",
@@ -722,14 +881,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/IDG_2508.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/IDG_2508.JPG",
       "thumbnailUrl": "/thumbnails/IDG_2508_d2e80d7b.webp",
       "thumbHash": "cff7050d840297779446886b879a6788bd61a00957",
       "width": 4032,
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20250816西湖/IDG_2508.JPG",
-      "lastModified": "2025-09-19T06:28:12.947Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 4655156,
       "exif": {
         "DateTimeOriginal": "2025-08-17T12:05:03+08:00",
@@ -792,14 +951,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2458.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2458.JPG",
       "thumbnailUrl": "/thumbnails/DSC_2458_b2f864fb.webp",
       "thumbHash": "4a080615842967654a7987946b19959f3879808509",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2458.JPG",
-      "lastModified": "2025-09-19T06:28:12.947Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 3912262,
       "exif": {
         "DateTimeOriginal": "2025-08-17T11:43:33+08:00",
@@ -859,14 +1018,14 @@
       "tags": [
         "20250816西湖"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2437.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250816西湖/DSC_2437.jpg",
       "thumbnailUrl": "/thumbnails/DSC_2437_034507d8.webp",
       "thumbHash": "0af8050d024b98ab9608b9d7689895a859bc002455",
       "width": 3337,
       "height": 4732,
       "aspectRatio": 0.7051986475063398,
       "s3Key": "20250816西湖/DSC_2437.jpg",
-      "lastModified": "2025-09-19T06:18:34.087Z",
+      "lastModified": "2025-09-23T09:35:40.308Z",
       "size": 2297757,
       "exif": {
         "DateTimeOriginal": "2025-08-16T18:05:55+08:00",
@@ -926,14 +1085,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2162.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2162.jpg",
       "thumbnailUrl": "/thumbnails/DSC_2162_2eab687b.webp",
       "thumbHash": "9dd70d35825a89886f78878f88679787a981400d09",
       "width": 4764,
       "height": 3184,
       "aspectRatio": 1.4962311557788945,
       "s3Key": "20250719曲院风荷/DSC_2162.jpg",
-      "lastModified": "2025-09-19T06:26:37.674Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 3955639,
       "exif": {
         "DateTimeOriginal": "2025-07-19T11:08:00+08:00",
@@ -993,14 +1152,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2653.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2653.jpg",
       "thumbnailUrl": "/thumbnails/IMG_2653_46351c19.webp",
       "thumbHash": "dcc7093d849f4798a188767788778897404b170414",
       "width": 4608,
       "height": 3543,
       "aspectRatio": 1.300592718035563,
       "s3Key": "20250719曲院风荷/IMG_2653.jpg",
-      "lastModified": "2025-09-19T06:28:12.567Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 2683505,
       "exif": {
         "DateTimeOriginal": "2025-07-19T11:02:58+08:00",
@@ -1060,14 +1219,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2648.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2648.jpg",
       "thumbnailUrl": "/thumbnails/IMG_2648_78f56b05.webp",
       "thumbHash": "10b90d158a5659887887868f78b6788878808af637",
       "width": 5568,
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250719曲院风荷/IMG_2648.jpg",
-      "lastModified": "2025-09-19T06:28:12.567Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 6190479,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:58:55+08:00",
@@ -1127,14 +1286,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2116.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2116.jpg",
       "thumbnailUrl": "/thumbnails/DSC_2116_2f920146.webp",
       "thumbHash": "d6b9051b08446f27aab48a7baa804ec506",
       "width": 1292,
       "height": 2698,
       "aspectRatio": 0.4788732394366197,
       "s3Key": "20250719曲院风荷/DSC_2116.jpg",
-      "lastModified": "2025-09-19T06:26:37.674Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 514735,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:55:35+08:00",
@@ -1194,14 +1353,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2651.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2651.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2651_b689a824.webp",
       "thumbHash": "d889091d0847898b9857a9f76b7c77a7b7846f9307",
       "width": 2035,
       "height": 2620,
       "aspectRatio": 0.7767175572519084,
       "s3Key": "20250719曲院风荷/IMG_2651.JPG",
-      "lastModified": "2025-09-19T06:28:12.567Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 775311,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:51:02+08:00",
@@ -1261,14 +1420,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2661.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2661.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2661_b6833dba.webp",
       "thumbHash": "d37905140a16f7584786772b9578f6aa79a037",
       "width": 1470,
       "height": 2824,
       "aspectRatio": 0.5205382436260623,
       "s3Key": "20250719曲院风荷/IMG_2661.JPG",
-      "lastModified": "2025-09-19T06:28:12.567Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 589101,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:50:58+08:00",
@@ -1328,14 +1487,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2096.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/DSC_2096.jpg",
       "thumbnailUrl": "/thumbnails/DSC_2096_92c632b8.webp",
       "thumbHash": "9ca8113e047888f88877b778887a78776767798094f798",
       "width": 2682,
       "height": 3399,
       "aspectRatio": 0.7890556045895851,
       "s3Key": "20250719曲院风荷/DSC_2096.jpg",
-      "lastModified": "2025-09-19T06:26:37.674Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 1977941,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:49:30+08:00",
@@ -1395,14 +1554,14 @@
       "tags": [
         "20250719曲院风荷"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2644.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250719曲院风荷/IMG_2644.jpg",
       "thumbnailUrl": "/thumbnails/IMG_2644_464cb061.webp",
       "thumbHash": "8ec8090c0248098748a98679f67795b007d02a",
       "width": 1731,
       "height": 3473,
       "aspectRatio": 0.498416354736539,
       "s3Key": "20250719曲院风荷/IMG_2644.jpg",
-      "lastModified": "2025-09-19T06:03:06.647Z",
+      "lastModified": "2025-09-23T09:35:39.890Z",
       "size": 955888,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:48:05+08:00",
@@ -1455,6 +1614,207 @@
       "isHDR": false
     },
     {
+      "id": "DSC_1028_Original_75acfc96",
+      "title": "DSC 1028 Original",
+      "description": "",
+      "dateTaken": "2025-04-05T04:37:50.000Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1028_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1028_Original_75acfc96.webp",
+      "thumbHash": "5bc70935827877888f78887888f7787e8870fa08e6",
+      "width": 4898,
+      "height": 3265,
+      "aspectRatio": 1.5001531393568146,
+      "s3Key": "20250405天台山/DSC_1028_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 4469791,
+      "exif": {
+        "DateTimeOriginal": "2025-04-05T12:37:50+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 4898,
+        "ImageHeight": 3265,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "Software": "Luminar Neo",
+        "ExposureTime": "1/320",
+        "FNumber": 6.3,
+        "ExposureProgram": "Not Defined",
+        "ISO": 100,
+        "ExposureCompensation": 0,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "19.5 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "29 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "SensingMethod": "One-chip color area",
+        "Aperture": 6.3,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/320",
+        "LightValue": 13.6,
+        "Rating": 0,
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 35,
+        "shadowRatio": 0.37,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_0685_Original_8630aa75",
+      "title": "DSC 0685 Original",
+      "description": "",
+      "dateTaken": "2025-04-04T12:43:41.000Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_0685_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_0685_Original_8630aa75.webp",
+      "thumbHash": "c728061582878468827569509d577b58a780840a38",
+      "width": 4898,
+      "height": 3265,
+      "aspectRatio": 1.5001531393568146,
+      "s3Key": "20250405天台山/DSC_0685_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 2297554,
+      "exif": {
+        "DateTimeOriginal": "2025-04-04T20:43:41+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 4898,
+        "ImageHeight": 3265,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Software": "Picasa",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.142486,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.031092,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 13,
+        "contrast": 28,
+        "shadowRatio": 0.91,
+        "highlightRatio": 0.01
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_0679_Original_ecea5bdd",
+      "title": "DSC 0679 Original",
+      "description": "",
+      "dateTaken": "2025-04-04T12:40:26.000Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_0679_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_0679_Original_ecea5bdd.webp",
+      "thumbHash": "0759061d064478846608aba7957587893584705007",
+      "width": 3580,
+      "height": 5065,
+      "aspectRatio": 0.7068114511352419,
+      "s3Key": "20250405天台山/DSC_0679_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 3355866,
+      "exif": {
+        "DateTimeOriginal": "2025-04-04T20:40:26+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 3580,
+        "ImageHeight": 5065,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.142486,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.031092,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 12,
+        "contrast": 33,
+        "shadowRatio": 0.92,
+        "highlightRatio": 0.03
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_0676_Original_cb26e578",
+      "title": "DSC 0676 Original",
+      "description": "",
+      "dateTaken": "2025-04-04T12:39:06.000Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_0676_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_0676_Original_cb26e578.webp",
+      "thumbHash": "0859060d84776765777777978778677080bb22fb3a",
+      "width": 4898,
+      "height": 3265,
+      "aspectRatio": 1.5001531393568146,
+      "s3Key": "20250405天台山/DSC_0676_Original.jpg",
+      "lastModified": "2025-09-23T09:35:38.244Z",
+      "size": 2042561,
+      "exif": {
+        "DateTimeOriginal": "2025-04-04T20:39:06+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 4898,
+        "ImageHeight": 3265,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Software": "Picasa",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "GPSLatitude": 29.142486,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.031092,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 14,
+        "contrast": 35,
+        "shadowRatio": 0.87,
+        "highlightRatio": 0.02
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "IMG_6982_Original_90f816bf",
       "title": "IMG 6982 Original",
       "description": "",
@@ -1462,14 +1822,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6982_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6982_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_6982_Original_90f816bf.webp",
       "thumbHash": "5dc70544047097977798788787879f78f8a896",
       "width": 2035,
       "height": 3522,
       "aspectRatio": 0.5777967064168086,
       "s3Key": "朝花夕拾/IMG_6982_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 4856185,
       "exif": {
         "DateTimeOriginal": "2025-04-02T12:03:56+08:00",
@@ -1531,14 +1891,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6975_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6975_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_6975_Original_58148a09.webp",
       "thumbHash": "ded8093e0270a5ca778847a95588677758776f92fc33ca",
       "width": 1496,
       "height": 1845,
       "aspectRatio": 0.810840108401084,
       "s3Key": "朝花夕拾/IMG_6975_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 2107813,
       "exif": {
         "DateTimeOriginal": "2025-04-02T12:03:26+08:00",
@@ -1600,14 +1960,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6952_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6952_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_6952_Original_1e2b53e4.webp",
       "thumbHash": "de18061c044ae3a89674bfd1399f88b6b05209",
       "width": 1428,
       "height": 2674,
       "aspectRatio": 0.5340314136125655,
       "s3Key": "朝花夕拾/IMG_6952_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 731245,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:06:13+08:00",
@@ -1669,14 +2029,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6949_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6949_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_6949_Original_e5dabd9c.webp",
       "thumbHash": "dc28061d02820dde88086cb47650954258044a4506",
       "width": 1867,
       "height": 2768,
       "aspectRatio": 0.6744942196531792,
       "s3Key": "朝花夕拾/IMG_6949_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 885663,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:05:50+08:00",
@@ -1738,14 +2098,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6935_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_6935_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_6935_Original_7d254d81.webp",
       "thumbHash": "92080a0d020a55a97668a756954a98686f9abc9057",
       "width": 2976,
       "height": 4032,
       "aspectRatio": 0.7380952380952381,
       "s3Key": "朝花夕拾/IMG_6935_Original.jpg",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 583499,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:03:49+08:00",
@@ -1807,14 +2167,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2138_Original.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2138_Original.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2138_Original_8177866a.webp",
       "thumbHash": "93180a1586b13f57a165899d78ba8488959069087b",
       "width": 4032,
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "朝花夕拾/IMG_2138_Original.JPG",
-      "lastModified": "2025-09-19T06:25:15.005Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 1251186,
       "exif": {
         "DateTimeOriginal": "2023-01-13T19:59:52+08:00",
@@ -1876,14 +2236,14 @@
       "tags": [
         "20221004南京牛首山"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2572.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2572.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2572_0a6bfe4a.webp",
       "thumbHash": "1339061d028a957f5b97a686579768886673509f16",
       "width": 6000,
       "height": 8000,
       "aspectRatio": 0.75,
       "s3Key": "20221004南京牛首山/IMG_2572.JPG",
-      "lastModified": "2025-09-19T06:28:11.390Z",
+      "lastModified": "2025-09-23T09:35:37.845Z",
       "size": 14727012,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:36:37+08:00",
@@ -1943,14 +2303,14 @@
       "tags": [
         "20221004南京牛首山"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2574.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2574.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2574_ab1e86bf.webp",
       "thumbHash": "d428061d84083b358f86699388573999c9a2b00d28",
       "width": 8000,
       "height": 6000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20221004南京牛首山/IMG_2574.JPG",
-      "lastModified": "2025-09-19T06:28:11.390Z",
+      "lastModified": "2025-09-23T09:35:37.845Z",
       "size": 18418596,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:33:49+08:00",
@@ -2010,14 +2370,14 @@
       "tags": [
         "20221004南京牛首山"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2573.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20221004南京牛首山/IMG_2573.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2573_16e78f4a.webp",
       "thumbHash": "4fe60535865898877b8987797608788c4780690588",
       "width": 8000,
       "height": 6000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20221004南京牛首山/IMG_2573.JPG",
-      "lastModified": "2025-09-19T06:28:11.390Z",
+      "lastModified": "2025-09-23T09:35:37.845Z",
       "size": 10310227,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:20:19+08:00",
@@ -2077,14 +2437,14 @@
       "tags": [
         "20210101宁波"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/20210101宁波/20210101_123350734_iOS.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20210101宁波/20210101_123350734_iOS.jpg",
       "thumbnailUrl": "/thumbnails/20210101_123350734_iOS_3fa0fc35.webp",
       "thumbHash": "8b180a2d04178880776a97978876787727807b0198",
       "width": 2949,
       "height": 3995,
       "aspectRatio": 0.7381727158948685,
       "s3Key": "20210101宁波/20210101_123350734_iOS.jpg",
-      "lastModified": "2025-09-19T06:28:11.013Z",
+      "lastModified": "2025-09-23T09:35:37.402Z",
       "size": 3237067,
       "exif": {
         "DateTimeOriginal": "2021-01-01T20:33:50+08:00",
@@ -2139,14 +2499,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2253_Original_Original.JPG",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_2253_Original_Original.JPG",
       "thumbnailUrl": "/thumbnails/IMG_2253_Original_Original_8a49182b.webp",
       "thumbHash": "91d80d25906488869f9578887878896a9184400816",
       "width": 3599,
       "height": 2633,
       "aspectRatio": 1.3668818837827572,
       "s3Key": "朝花夕拾/IMG_2253_Original_Original.JPG",
-      "lastModified": "2025-09-19T06:28:13.720Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 1179252,
       "exif": {
         "DateTimeOriginal": "2020-10-24T14:42:51+08:00",
@@ -2207,14 +2567,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/AC39FAF1-BAE3-4BD1-9C08-BC6A1B96EC20_Original_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/AC39FAF1-BAE3-4BD1-9C08-BC6A1B96EC20_Original_Original.jpg",
       "thumbnailUrl": "/thumbnails/AC39FAF1-BAE3-4BD1-9C08-BC6A1B96EC20_Original_Original_b85e86e0.webp",
       "thumbHash": "54e8091d847997798f77879b985686767a6fe89609",
       "width": 3917,
       "height": 2634,
       "aspectRatio": 1.4870918754745635,
       "s3Key": "朝花夕拾/AC39FAF1-BAE3-4BD1-9C08-BC6A1B96EC20_Original_Original.jpg",
-      "lastModified": "2025-09-19T06:25:15.005Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 1129025,
       "exif": {
         "DateTimeOriginal": "2020-05-31T00:03:33+08:00",
@@ -2277,14 +2637,14 @@
       "tags": [
         "朝花夕拾"
       ],
-      "originalUrl": "https://raw.githubusercontent.com/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_1217_Original.jpg",
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/朝花夕拾/IMG_1217_Original.jpg",
       "thumbnailUrl": "/thumbnails/IMG_1217_Original_dc197899.webp",
       "thumbHash": "57180e1482a366877185779f8672805e18f797",
       "width": 2000,
       "height": 1184,
       "aspectRatio": 1.6891891891891893,
       "s3Key": "朝花夕拾/IMG_1217_Original.jpg",
-      "lastModified": "2025-09-19T06:25:15.005Z",
+      "lastModified": "2025-09-23T09:35:41.205Z",
       "size": 162598,
       "exif": {
         "DateTimeOriginal": "2013-11-11T23:04:30+08:00",
