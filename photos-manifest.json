@@ -2,91 +2,10 @@
   "version": "v6",
   "data": [
     {
-      "id": "DSC_2881_37e4f72a",
-      "title": "DSC 2881",
-      "description": "",
-      "dateTaken": "2025-10-09T09:44:10.959Z",
-      "tags": [
-        "20251003巽寮湾"
-      ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20251003巽寮湾/DSC_2881.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_2881_37e4f72a.webp",
-      "thumbHash": "dc280a4d0a78777f889888b878789788687f7af697",
-      "width": 3712,
-      "height": 5568,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "20251003巽寮湾/DSC_2881.jpg",
-      "lastModified": "2025-10-09T09:42:17.217Z",
-      "size": 5623284,
-      "exif": {
-        "ImageWidth": 3712,
-        "ImageHeight": 5568,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "Uncalibrated",
-        "SceneCaptureType": "Standard",
-        "GPSAltitude": 0,
-        "GPSAltitudeRef": "Above Sea Level",
-        "GPSLatitude": 22.694922,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 114.749108,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 45,
-        "contrast": 38,
-        "shadowRatio": 0.34,
-        "highlightRatio": 0.22
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_2758_3657cda8",
-      "title": "DSC 2758",
-      "description": "",
-      "dateTaken": "2025-10-09T09:44:09.248Z",
-      "tags": [
-        "20251003巽寮湾"
-      ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20251003巽寮湾/DSC_2758.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_2758_3657cda8.webp",
-      "thumbHash": "5ec705258a5688777086797b87c877895780740567",
-      "width": 5568,
-      "height": 3712,
-      "aspectRatio": 1.5,
-      "s3Key": "20251003巽寮湾/DSC_2758.jpg",
-      "lastModified": "2025-10-09T09:42:17.217Z",
-      "size": 10100927,
-      "exif": {
-        "ImageWidth": 5568,
-        "ImageHeight": 3712,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 22.691147,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 114.754669,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 47,
-        "contrast": 31,
-        "shadowRatio": 0.26,
-        "highlightRatio": 0.09
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
       "id": "DSC_2863_8933c7f1",
       "title": "DSC 2863",
       "description": "",
-      "dateTaken": "2025-10-09T09:44:07.691Z",
+      "dateTaken": "2025-10-09T09:47:41.876Z",
       "tags": [
         "20251003巽寮湾"
       ],
@@ -97,7 +16,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20251003巽寮湾/DSC_2863.jpg",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 4213887,
       "exif": {
         "ImageWidth": 5568,
@@ -105,8 +24,12 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z 50mm f/1.8 S",
         "GPSAltitude": 0,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 22.694922,
@@ -125,10 +48,99 @@
       "isHDR": false
     },
     {
+      "id": "DSC_2758_3657cda8",
+      "title": "DSC 2758",
+      "description": "",
+      "dateTaken": "2025-10-09T09:47:41.829Z",
+      "tags": [
+        "20251003巽寮湾"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20251003巽寮湾/DSC_2758.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_2758_3657cda8.webp",
+      "thumbHash": "5ec705258a5688777086797b87c877895780740567",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20251003巽寮湾/DSC_2758.jpg",
+      "lastModified": "2025-10-09T09:45:39.847Z",
+      "size": 10100927,
+      "exif": {
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z 50mm f/1.8 S",
+        "GPSLatitude": 22.691147,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 114.754669,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 47,
+        "contrast": 31,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC_2881_37e4f72a",
+      "title": "DSC 2881",
+      "description": "",
+      "dateTaken": "2025-10-09T09:47:39.780Z",
+      "tags": [
+        "20251003巽寮湾"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20251003巽寮湾/DSC_2881.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_2881_37e4f72a.webp",
+      "thumbHash": "dc280a4d0a78777f889888b878789788687f7af697",
+      "width": 3712,
+      "height": 5568,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "20251003巽寮湾/DSC_2881.jpg",
+      "lastModified": "2025-10-09T09:45:39.847Z",
+      "size": 5623284,
+      "exif": {
+        "ImageWidth": 3712,
+        "ImageHeight": 5568,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z 50mm f/1.8 S",
+        "GPSAltitude": 0,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 22.694922,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 114.749108,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 38,
+        "shadowRatio": 0.34,
+        "highlightRatio": 0.22
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "DSC_2756_594fa3c6",
       "title": "DSC 2756",
       "description": "",
-      "dateTaken": "2025-10-09T09:44:02.832Z",
+      "dateTaken": "2025-10-09T09:47:28.556Z",
       "tags": [
         "20251003巽寮湾"
       ],
@@ -139,7 +151,7 @@
       "height": 3500,
       "aspectRatio": 1.5002857142857142,
       "s3Key": "20251003巽寮湾/DSC_2756.jpg",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 7644478,
       "exif": {
         "ImageWidth": 5251,
@@ -147,7 +159,11 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z 50mm f/1.8 S",
         "GPSLatitude": 22.691147,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 114.754669,
@@ -167,7 +183,7 @@
       "id": "DSC_1964_c5cdd93b",
       "title": "DSC 1964",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:57.436Z",
+      "dateTaken": "2025-10-09T09:47:02.981Z",
       "tags": [
         "20250601广州"
       ],
@@ -178,13 +194,17 @@
       "height": 5568,
       "aspectRatio": 0.6666666666666666,
       "s3Key": "20250601广州/DSC_1964.jpg",
-      "lastModified": "2025-10-09T09:42:15.826Z",
+      "lastModified": "2025-10-09T09:45:38.576Z",
       "size": 19452200,
       "exif": {
         "ImageWidth": 3712,
         "ImageHeight": 5568,
         "Orientation": 1,
-        "ColorSpace": "sRGB"
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR"
       },
       "toneAnalysis": {
         "toneType": "low-key",
@@ -197,41 +217,45 @@
       "isHDR": false
     },
     {
-      "id": "DSC_1737_5ab94aef",
-      "title": "DSC 1737",
+      "id": "DSC_1529_99d53ea2",
+      "title": "DSC 1529",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:19.939Z",
+      "dateTaken": "2025-10-09T09:46:43.538Z",
       "tags": [
         "20250502景德镇"
       ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1737.JPG",
-      "thumbnailUrl": "/thumbnails/DSC_1737_5ab94aef.webp",
-      "thumbHash": "d1e7090d84099687738577718c788887e7787f8ef7",
-      "width": 4498,
-      "height": 3324,
-      "aspectRatio": 1.3531889290012034,
-      "s3Key": "20250502景德镇/DSC_1737.JPG",
-      "lastModified": "2025-10-09T09:42:14.973Z",
-      "size": 3261932,
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1529.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1529_99d53ea2.webp",
+      "thumbHash": "18290a0d820766c898878784978a77856c8ff7cbeb",
+      "width": 5568,
+      "height": 3712,
+      "aspectRatio": 1.5,
+      "s3Key": "20250502景德镇/DSC_1529.jpg",
+      "lastModified": "2025-10-09T09:45:37.726Z",
+      "size": 8414523,
       "exif": {
-        "ImageWidth": 4498,
-        "ImageHeight": 3324,
+        "ImageWidth": 5568,
+        "ImageHeight": 3712,
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
-        "GPSLatitude": 29.293239,
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "GPSLatitude": 29.296531,
         "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.175531,
+        "GPSLongitude": 117.207092,
         "GPSLongitudeRef": "E"
       },
       "toneAnalysis": {
-        "toneType": "low-key",
-        "brightness": 27,
+        "toneType": "normal",
+        "brightness": 39,
         "contrast": 39,
-        "shadowRatio": 0.68,
-        "highlightRatio": 0.05
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.1
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -240,7 +264,7 @@
       "id": "DSC_1707_93ccf4f9",
       "title": "DSC 1707",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:11.419Z",
+      "dateTaken": "2025-10-09T09:46:34.799Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -251,7 +275,7 @@
       "height": 4824,
       "aspectRatio": 0.6046849087893864,
       "s3Key": "20250502景德镇/DSC_1707.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 2986131,
       "exif": {
         "ImageWidth": 2917,
@@ -259,8 +283,12 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.293239,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 117.175531,
@@ -277,10 +305,54 @@
       "isHDR": false
     },
     {
+      "id": "DSC_1737_5ab94aef",
+      "title": "DSC 1737",
+      "description": "",
+      "dateTaken": "2025-10-09T09:46:28.846Z",
+      "tags": [
+        "20250502景德镇"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1737.JPG",
+      "thumbnailUrl": "/thumbnails/DSC_1737_5ab94aef.webp",
+      "thumbHash": "d1e7090d84099687738577718c788887e7787f8ef7",
+      "width": 4498,
+      "height": 3324,
+      "aspectRatio": 1.3531889290012034,
+      "s3Key": "20250502景德镇/DSC_1737.JPG",
+      "lastModified": "2025-10-09T09:45:37.726Z",
+      "size": 3261932,
+      "exif": {
+        "ImageWidth": 4498,
+        "ImageHeight": 3324,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "GPSLatitude": 29.293239,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.175531,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 27,
+        "contrast": 39,
+        "shadowRatio": 0.68,
+        "highlightRatio": 0.05
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "DSC_1703_5aa62521",
       "title": "DSC 1703",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:11.107Z",
+      "dateTaken": "2025-10-09T09:46:25.383Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -291,7 +363,7 @@
       "height": 5113,
       "aspectRatio": 0.679835712888715,
       "s3Key": "20250502景德镇/DSC_1703.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 4334879,
       "exif": {
         "ImageWidth": 3476,
@@ -299,7 +371,11 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.293239,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 117.175531,
@@ -316,10 +392,54 @@
       "isHDR": false
     },
     {
+      "id": "DSC_1199_Original_5eab69f0",
+      "title": "DSC 1199 Original",
+      "description": "",
+      "dateTaken": "2025-10-09T09:46:24.068Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1199_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1199_Original_5eab69f0.webp",
+      "thumbHash": "cfd80515844f677786796756796888636f64069979",
+      "width": 4898,
+      "height": 3265,
+      "aspectRatio": 1.5001531393568146,
+      "s3Key": "20250405天台山/DSC_1199_Original.jpg",
+      "lastModified": "2025-10-09T09:45:37.331Z",
+      "size": 6915663,
+      "exif": {
+        "ImageWidth": 4898,
+        "ImageHeight": 3265,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "Software": "Picasa",
+        "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 28,
+        "contrast": 31,
+        "shadowRatio": 0.63,
+        "highlightRatio": 0
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "DSC_1701_9aeaa710",
       "title": "DSC 1701",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:07.178Z",
+      "dateTaken": "2025-10-09T09:46:23.860Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -330,7 +450,7 @@
       "height": 4303,
       "aspectRatio": 0.7724843132698117,
       "s3Key": "20250502景德镇/DSC_1701.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 3370918,
       "exif": {
         "ImageWidth": 3324,
@@ -338,7 +458,11 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.293239,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 117.175531,
@@ -358,7 +482,7 @@
       "id": "DSC_1675_df163282",
       "title": "DSC 1675",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:05.341Z",
+      "dateTaken": "2025-10-09T09:46:19.438Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -369,7 +493,7 @@
       "height": 4886,
       "aspectRatio": 0.5366352844862874,
       "s3Key": "20250502景德镇/DSC_1675.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 3058755,
       "exif": {
         "ImageWidth": 2622,
@@ -377,7 +501,11 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.293239,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 117.175531,
@@ -394,50 +522,10 @@
       "isHDR": false
     },
     {
-      "id": "DSC_1529_99d53ea2",
-      "title": "DSC 1529",
-      "description": "",
-      "dateTaken": "2025-10-09T09:43:02.886Z",
-      "tags": [
-        "20250502景德镇"
-      ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250502景德镇/DSC_1529.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1529_99d53ea2.webp",
-      "thumbHash": "18290a0d820766c898878784978a77856c8ff7cbeb",
-      "width": 5568,
-      "height": 3712,
-      "aspectRatio": 1.5,
-      "s3Key": "20250502景德镇/DSC_1529.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
-      "size": 8414523,
-      "exif": {
-        "ImageWidth": 5568,
-        "ImageHeight": 3712,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "ColorSpace": "Uncalibrated",
-        "SceneCaptureType": "Standard",
-        "GPSLatitude": 29.296531,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 117.207092,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 39,
-        "contrast": 39,
-        "shadowRatio": 0.47,
-        "highlightRatio": 0.1
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
       "id": "DSC_1528_846ed276",
       "title": "DSC 1528",
       "description": "",
-      "dateTaken": "2025-10-09T09:43:00.502Z",
+      "dateTaken": "2025-10-09T09:46:18.788Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -448,7 +536,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250502景德镇/DSC_1528.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 8575565,
       "exif": {
         "ImageWidth": 5568,
@@ -456,8 +544,12 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.296531,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 117.207092,
@@ -477,7 +569,7 @@
       "id": "DSC_1527_68b63146",
       "title": "DSC 1527",
       "description": "",
-      "dateTaken": "2025-10-09T09:42:59.566Z",
+      "dateTaken": "2025-10-09T09:46:17.889Z",
       "tags": [
         "20250502景德镇"
       ],
@@ -488,100 +580,31 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250502景德镇/DSC_1527.jpg",
-      "lastModified": "2025-10-09T09:42:14.973Z",
+      "lastModified": "2025-10-09T09:45:37.726Z",
       "size": 8235981,
       "exif": {
         "ImageWidth": 5568,
         "ImageHeight": 3712,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
-        "ColorSpace": "sRGB",
-        "SceneCaptureType": "Standard"
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "ColorSpace": "Uncalibrated",
+        "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "GPSLatitude": 29.296531,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 117.207092,
+        "GPSLongitudeRef": "E"
       },
       "toneAnalysis": {
         "toneType": "normal",
         "brightness": 41,
         "contrast": 43,
-        "shadowRatio": 0.45,
+        "shadowRatio": 0.44,
         "highlightRatio": 0.17
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1218_Original_a085f947",
-      "title": "DSC 1218 Original",
-      "description": "",
-      "dateTaken": "2025-10-09T09:42:44.705Z",
-      "tags": [
-        "20250405天台山"
-      ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1218_Original.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1218_Original_a085f947.webp",
-      "thumbHash": "cee8051d02a43c8f6b15b774568d87a6967c7016f8",
-      "width": 2795,
-      "height": 4192,
-      "aspectRatio": 0.6667461832061069,
-      "s3Key": "20250405天台山/DSC_1218_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
-      "size": 4698373,
-      "exif": {
-        "ImageWidth": 2795,
-        "ImageHeight": 4192,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Software": "Picasa",
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 29.227822,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 121.045844,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "low-key",
-        "brightness": 25,
-        "contrast": 36,
-        "shadowRatio": 0.72,
-        "highlightRatio": 0.02
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSC_1199_Original_5eab69f0",
-      "title": "DSC 1199 Original",
-      "description": "",
-      "dateTaken": "2025-10-09T09:42:43.770Z",
-      "tags": [
-        "20250405天台山"
-      ],
-      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1199_Original.jpg",
-      "thumbnailUrl": "/thumbnails/DSC_1199_Original_5eab69f0.webp",
-      "thumbHash": "cfd80515844f677786796756796888636f64069979",
-      "width": 4898,
-      "height": 3265,
-      "aspectRatio": 1.5001531393568146,
-      "s3Key": "20250405天台山/DSC_1199_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
-      "size": 6915663,
-      "exif": {
-        "ImageWidth": 4898,
-        "ImageHeight": 3265,
-        "tz": "Asia/Shanghai",
-        "tzSource": "GPSLatitude/GPSLongitude",
-        "Orientation": 1,
-        "Software": "Picasa",
-        "ColorSpace": "sRGB",
-        "GPSLatitude": 29.227822,
-        "GPSLatitudeRef": "N",
-        "GPSLongitude": 121.045844,
-        "GPSLongitudeRef": "E"
-      },
-      "toneAnalysis": {
-        "toneType": "low-key",
-        "brightness": 28,
-        "contrast": 31,
-        "shadowRatio": 0.63,
-        "highlightRatio": 0
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -590,7 +613,7 @@
       "id": "DSC_0844_Original_e41471fc",
       "title": "DSC 0844 Original",
       "description": "",
-      "dateTaken": "2025-10-09T09:42:39.689Z",
+      "dateTaken": "2025-10-09T09:46:05.069Z",
       "tags": [
         "20250405天台山"
       ],
@@ -601,15 +624,19 @@
       "height": 2795,
       "aspectRatio": 1.4998211091234348,
       "s3Key": "20250405天台山/DSC_0844_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 4728877,
       "exif": {
         "ImageWidth": 4192,
         "ImageHeight": 2795,
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "Software": "Picasa",
         "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.227822,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 121.045844,
@@ -626,10 +653,53 @@
       "isHDR": false
     },
     {
+      "id": "DSC_1218_Original_a085f947",
+      "title": "DSC 1218 Original",
+      "description": "",
+      "dateTaken": "2025-10-09T09:46:03.672Z",
+      "tags": [
+        "20250405天台山"
+      ],
+      "originalUrl": "https://kqwqk.pw/images-proxy/kqwqk/kqwqk-photos/main/20250405天台山/DSC_1218_Original.jpg",
+      "thumbnailUrl": "/thumbnails/DSC_1218_Original_a085f947.webp",
+      "thumbHash": "cee8051d02a43c8f6b15b774568d87a6967c7016f8",
+      "width": 2795,
+      "height": 4192,
+      "aspectRatio": 0.6667461832061069,
+      "s3Key": "20250405天台山/DSC_1218_Original.jpg",
+      "lastModified": "2025-10-09T09:45:37.331Z",
+      "size": 4698373,
+      "exif": {
+        "ImageWidth": 2795,
+        "ImageHeight": 4192,
+        "tz": "Asia/Shanghai",
+        "tzSource": "GPSLatitude/GPSLongitude",
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
+        "Software": "Picasa",
+        "ColorSpace": "sRGB",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
+        "GPSLatitude": 29.227822,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 121.045844,
+        "GPSLongitudeRef": "E"
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 25,
+        "contrast": 36,
+        "shadowRatio": 0.72,
+        "highlightRatio": 0.02
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "DSC_0740_Original_6255c615",
       "title": "DSC 0740 Original",
       "description": "",
-      "dateTaken": "2025-10-09T09:42:28.243Z",
+      "dateTaken": "2025-10-09T09:45:48.708Z",
       "tags": [
         "20250405天台山"
       ],
@@ -640,7 +710,7 @@
       "height": 3712,
       "aspectRatio": 0.4911099137931034,
       "s3Key": "20250405天台山/DSC_0740_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 639738,
       "exif": {
         "ImageWidth": 1823,
@@ -648,9 +718,13 @@
         "tz": "Asia/Shanghai",
         "tzSource": "GPSLatitude/GPSLongitude",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "Software": "Picasa",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.142486,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 121.031092,
@@ -681,7 +755,7 @@
       "height": 3212,
       "aspectRatio": 1.4996886674968868,
       "s3Key": "20251003巽寮湾/DSC_2846.JPG",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 1712466,
       "exif": {
         "DateTimeOriginal": "2025-10-03T17:47:05+08:00",
@@ -750,7 +824,7 @@
       "height": 2696,
       "aspectRatio": 1.4996290801186944,
       "s3Key": "20251003巽寮湾/DSC_2822.JPG",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 1378263,
       "exif": {
         "DateTimeOriginal": "2025-10-03T17:42:01+08:00",
@@ -819,7 +893,7 @@
       "height": 2324,
       "aspectRatio": 1.5,
       "s3Key": "20251003巽寮湾/DSC_2813.JPG",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 989146,
       "exif": {
         "DateTimeOriginal": "2025-10-03T17:41:16+08:00",
@@ -888,7 +962,7 @@
       "height": 3257,
       "aspectRatio": 1.500153515505066,
       "s3Key": "20251003巽寮湾/DSC_2804.JPG",
-      "lastModified": "2025-10-09T09:42:17.217Z",
+      "lastModified": "2025-10-09T09:45:39.847Z",
       "size": 1841711,
       "exif": {
         "DateTimeOriginal": "2025-10-03T17:40:44+08:00",
@@ -957,7 +1031,7 @@
       "height": 4284,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "朝花夕拾/IMG_2586.HEIC",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 3012605,
       "exif": {
         "DateTimeOriginal": "2025-09-08T20:01:41+08:00",
@@ -1026,7 +1100,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2520.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 6970722,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:29:08+08:00",
@@ -1093,7 +1167,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2519.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 3332744,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:24:24+08:00",
@@ -1160,7 +1234,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2510.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 4278241,
       "exif": {
         "DateTimeOriginal": "2025-08-17T18:19:58+08:00",
@@ -1227,7 +1301,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2506.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 3446730,
       "exif": {
         "DateTimeOriginal": "2025-08-17T12:45:24+08:00",
@@ -1294,7 +1368,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20250816西湖/IDG_2508.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 4655156,
       "exif": {
         "DateTimeOriginal": "2025-08-17T12:05:03+08:00",
@@ -1364,7 +1438,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250816西湖/DSC_2458.JPG",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 3912262,
       "exif": {
         "DateTimeOriginal": "2025-08-17T11:43:33+08:00",
@@ -1431,7 +1505,7 @@
       "height": 4732,
       "aspectRatio": 0.7051986475063398,
       "s3Key": "20250816西湖/DSC_2437.jpg",
-      "lastModified": "2025-10-09T09:42:16.799Z",
+      "lastModified": "2025-10-09T09:45:39.425Z",
       "size": 2297757,
       "exif": {
         "DateTimeOriginal": "2025-08-16T18:05:55+08:00",
@@ -1498,7 +1572,7 @@
       "height": 3184,
       "aspectRatio": 1.4962311557788945,
       "s3Key": "20250719曲院风荷/DSC_2162.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 3955639,
       "exif": {
         "DateTimeOriginal": "2025-07-19T11:08:00+08:00",
@@ -1565,7 +1639,7 @@
       "height": 3543,
       "aspectRatio": 1.300592718035563,
       "s3Key": "20250719曲院风荷/IMG_2653.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 2683505,
       "exif": {
         "DateTimeOriginal": "2025-07-19T11:02:58+08:00",
@@ -1632,7 +1706,7 @@
       "height": 3712,
       "aspectRatio": 1.5,
       "s3Key": "20250719曲院风荷/IMG_2648.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 6190479,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:58:55+08:00",
@@ -1699,7 +1773,7 @@
       "height": 2698,
       "aspectRatio": 0.4788732394366197,
       "s3Key": "20250719曲院风荷/DSC_2116.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 514735,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:55:35+08:00",
@@ -1766,7 +1840,7 @@
       "height": 2620,
       "aspectRatio": 0.7767175572519084,
       "s3Key": "20250719曲院风荷/IMG_2651.JPG",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 775311,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:51:02+08:00",
@@ -1833,7 +1907,7 @@
       "height": 2824,
       "aspectRatio": 0.5205382436260623,
       "s3Key": "20250719曲院风荷/IMG_2661.JPG",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 589101,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:50:58+08:00",
@@ -1900,7 +1974,7 @@
       "height": 3399,
       "aspectRatio": 0.7890556045895851,
       "s3Key": "20250719曲院风荷/DSC_2096.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 1977941,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:49:30+08:00",
@@ -1967,7 +2041,7 @@
       "height": 3473,
       "aspectRatio": 0.498416354736539,
       "s3Key": "20250719曲院风荷/IMG_2644.jpg",
-      "lastModified": "2025-10-09T09:42:16.303Z",
+      "lastModified": "2025-10-09T09:45:39.026Z",
       "size": 955888,
       "exif": {
         "DateTimeOriginal": "2025-07-19T10:48:05+08:00",
@@ -2034,7 +2108,7 @@
       "height": 3265,
       "aspectRatio": 1.5001531393568146,
       "s3Key": "20250405天台山/DSC_1028_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 4469791,
       "exif": {
         "DateTimeOriginal": "2025-04-05T12:37:50+08:00",
@@ -2101,7 +2175,7 @@
       "height": 3265,
       "aspectRatio": 1.5001531393568146,
       "s3Key": "20250405天台山/DSC_0685_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 2297672,
       "exif": {
         "DateTimeOriginal": "2025-04-04T20:43:41+08:00",
@@ -2113,9 +2187,13 @@
         "tz": "UTC+8",
         "tzSource": "OffsetTimeOriginal",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "Software": "Picasa",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.142486,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 121.031092,
@@ -2146,7 +2224,7 @@
       "height": 5065,
       "aspectRatio": 0.7068114511352419,
       "s3Key": "20250405天台山/DSC_0679_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 3355984,
       "exif": {
         "DateTimeOriginal": "2025-04-04T20:40:26+08:00",
@@ -2158,8 +2236,12 @@
         "tz": "UTC+8",
         "tzSource": "OffsetTimeOriginal",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.142486,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 121.031092,
@@ -2190,7 +2272,7 @@
       "height": 3265,
       "aspectRatio": 1.5001531393568146,
       "s3Key": "20250405天台山/DSC_0676_Original.jpg",
-      "lastModified": "2025-10-09T09:42:14.575Z",
+      "lastModified": "2025-10-09T09:45:37.331Z",
       "size": 2042679,
       "exif": {
         "DateTimeOriginal": "2025-04-04T20:39:06+08:00",
@@ -2202,9 +2284,13 @@
         "tz": "UTC+8",
         "tzSource": "OffsetTimeOriginal",
         "Orientation": 1,
+        "Make": "NIKON CORPORATION",
+        "Model": "NIKON Z fc",
         "Software": "Picasa",
         "ColorSpace": "Uncalibrated",
         "SceneCaptureType": "Standard",
+        "LensMake": "NIKON",
+        "LensModel": "NIKKOR Z DX 18-140mm f/3.5-6.3 VR",
         "GPSLatitude": 29.142486,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 121.031092,
@@ -2235,7 +2321,7 @@
       "height": 3522,
       "aspectRatio": 0.5777967064168086,
       "s3Key": "朝花夕拾/IMG_6982_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 4856185,
       "exif": {
         "DateTimeOriginal": "2025-04-02T12:03:56+08:00",
@@ -2304,7 +2390,7 @@
       "height": 1845,
       "aspectRatio": 0.810840108401084,
       "s3Key": "朝花夕拾/IMG_6975_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 2107813,
       "exif": {
         "DateTimeOriginal": "2025-04-02T12:03:26+08:00",
@@ -2373,7 +2459,7 @@
       "height": 2674,
       "aspectRatio": 0.5340314136125655,
       "s3Key": "朝花夕拾/IMG_6952_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 731245,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:06:13+08:00",
@@ -2442,7 +2528,7 @@
       "height": 2768,
       "aspectRatio": 0.6744942196531792,
       "s3Key": "朝花夕拾/IMG_6949_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 885663,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:05:50+08:00",
@@ -2511,7 +2597,7 @@
       "height": 4032,
       "aspectRatio": 0.7380952380952381,
       "s3Key": "朝花夕拾/IMG_6935_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 583499,
       "exif": {
         "DateTimeOriginal": "2025-04-01T13:03:49+08:00",
@@ -2580,7 +2666,7 @@
       "height": 3024,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "朝花夕拾/IMG_2138_Original.JPG",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 1251186,
       "exif": {
         "DateTimeOriginal": "2023-01-13T19:59:52+08:00",
@@ -2649,7 +2735,7 @@
       "height": 8000,
       "aspectRatio": 0.75,
       "s3Key": "20221004南京牛首山/IMG_2572.JPG",
-      "lastModified": "2025-10-09T09:42:14.183Z",
+      "lastModified": "2025-10-09T09:45:36.455Z",
       "size": 14727012,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:36:37+08:00",
@@ -2716,7 +2802,7 @@
       "height": 6000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20221004南京牛首山/IMG_2574.JPG",
-      "lastModified": "2025-10-09T09:42:14.183Z",
+      "lastModified": "2025-10-09T09:45:36.455Z",
       "size": 18418596,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:33:49+08:00",
@@ -2783,7 +2869,7 @@
       "height": 6000,
       "aspectRatio": 1.3333333333333333,
       "s3Key": "20221004南京牛首山/IMG_2573.JPG",
-      "lastModified": "2025-10-09T09:42:14.183Z",
+      "lastModified": "2025-10-09T09:45:36.455Z",
       "size": 10310227,
       "exif": {
         "DateTimeOriginal": "2022-10-04T15:20:19+08:00",
@@ -2850,7 +2936,7 @@
       "height": 3995,
       "aspectRatio": 0.7381727158948685,
       "s3Key": "20210101宁波/20210101_123350734_iOS.jpg",
-      "lastModified": "2025-10-09T09:42:13.337Z",
+      "lastModified": "2025-10-09T09:45:36.038Z",
       "size": 3237067,
       "exif": {
         "DateTimeOriginal": "2021-01-01T20:33:50+08:00",
@@ -2912,7 +2998,7 @@
       "height": 2633,
       "aspectRatio": 1.3668818837827572,
       "s3Key": "朝花夕拾/IMG_2253_Original_Original.JPG",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 1179252,
       "exif": {
         "DateTimeOriginal": "2020-10-24T14:42:51+08:00",
@@ -2980,7 +3066,7 @@
       "height": 2634,
       "aspectRatio": 1.4870918754745635,
       "s3Key": "朝花夕拾/AC39FAF1-BAE3-4BD1-9C08-BC6A1B96EC20_Original_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 1129025,
       "exif": {
         "DateTimeOriginal": "2020-05-31T00:03:33+08:00",
@@ -3050,7 +3136,7 @@
       "height": 1184,
       "aspectRatio": 1.6891891891891893,
       "s3Key": "朝花夕拾/IMG_1217_Original.jpg",
-      "lastModified": "2025-10-09T09:42:18.051Z",
+      "lastModified": "2025-10-09T09:45:41.112Z",
       "size": 162598,
       "exif": {
         "DateTimeOriginal": "2013-11-11T23:04:30+08:00",
